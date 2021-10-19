@@ -1,5 +1,5 @@
 # Portfolio
-This repo holds analytical works that makeup my portfolio.  
+
 As of: October 19th, 2021. 
 
 -- Created a folder and uploaded files that hold the original Excel data,
