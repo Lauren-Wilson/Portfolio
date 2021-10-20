@@ -10,3 +10,5 @@ data cleaning and analysis sheets, a final .PDF file for management, and a sheet
 -- This analysis was based off ficticious data and email request and is meant to showcase the use of
 XLOOKUP, VLOOKUP, SUMIFS, COUNTIFS, Pivot Tables, Chart creation, and overall analysis of a problem
 
+-- Created folder and uploaded files for EDA project
+
